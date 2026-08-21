@@ -19,8 +19,8 @@ export const perguntas = [
   },
   {
     id: 4,
-    texto: 'Belém, capital do Pará, é famosa mundialmente por qual fruta, sucesso também nas gôndolas do Alô Pará?',
-    opcoes: ['Kiwi', 'Açaí', 'Damasco', 'Uva'],
+    texto: 'Qual a novidade do Alô Pará que permite você mesmo passar suas compras no caixa, sem precisar de atendente?',
+    opcoes: ['Balança', 'Self-checkout', 'Caixa normal', 'Nenhuma das alternativas anteriores'],
     correta: 1,
   },
   {
@@ -37,15 +37,15 @@ export const perguntas = [
   },
   {
     id: 7,
-    texto: 'Qual seção do Alô Pará é a certa para encontrar carnes, aves e peixes fresquinhos?',
-    opcoes: ['Papelaria', 'Açougue e peixaria', 'Bazar', 'Jardinagem'],
+    texto: 'Como conseguir desconto nas compras do Alô Pará?',
+    opcoes: ['usando cartão de crédito', 'fazendo parte do clube de descontos', 'comprando em quantidades grandes', 'apenas pagando em dinheiro', 'não é possível conseguir desconto'],
     correta: 1,
   },
   {
     id: 8,
-    texto: 'Levar suas próprias sacolas retornáveis ao fazer compras ajuda principalmente:',
-    opcoes: ['A aumentar o valor da compra', 'O meio ambiente, reduzindo o uso de plástico', 'A demorar mais no caixa', 'Não traz nenhum benefício'],
-    correta: 1,
+    texto: 'Como fazer parte do clube de descontos do Alô Pará?',
+    opcoes: ['Fazendo um pagamento', 'Comprando em quantidades grandes', 'Apenas usando o CPF de forma rápida e fácil', 'Não sei'],
+    correta: 2,
   },
   {
     id: 9,
